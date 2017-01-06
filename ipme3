@@ -4,3 +4,8 @@ int test3()
 	int a;
 
 }
+
+int test4()
+{
+   int *a="1234";
+}
