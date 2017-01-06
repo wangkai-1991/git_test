@@ -4,6 +4,7 @@ int test3()
 	int a;
 	int b;
 	int c1;
+	int c2;
 }
 
 int test4()
